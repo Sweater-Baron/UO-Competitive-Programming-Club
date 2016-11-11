@@ -1,7 +1,7 @@
 # Visual Identity Requirements
 
 ## Compnents
-* Logo (first draft Nov 24th)
+* Logo (first draft Nov 20th)
 * Stickers
 * T-shirts
 * Banners
