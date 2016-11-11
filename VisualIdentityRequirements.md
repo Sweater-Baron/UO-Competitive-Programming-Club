@@ -1,5 +1,11 @@
 # Visual Identity Requirements
 
+## Compnents
+* Logo (first draft Nov 24th)
+* Stickers
+* T-shirts
+* Banners
+
 ## Style:
 * Professional Looking
 * engages competition but does not lose grace
