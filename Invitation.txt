@@ -1,0 +1,8 @@
+Hi we are trying to start a Compeititve Programming Club to help computer science students who refuse to
+be mediocre programmer sharpen their coding skills on solving programming puzzles therefore they can land 
+good jobs in their dream companies and fully exploit their talent. 
+
+A players want to be A players. I want to invite you to our early adopters' meeting @Deschutes $(SOMETIME). 
+In that meeting we will be covering "Network Flow Algorithm", which is frequently asked in the interviews but 
+not covered by our school.  Since we are trying to limit the number of people to under 30, if you can give 
+me a confirmation of attending I would like to preserve your spot for you.
