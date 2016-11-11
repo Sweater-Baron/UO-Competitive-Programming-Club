@@ -46,5 +46,5 @@
 * Silicon Valley Big Names
 
 ## Events
-
-### Civilwar Programming Competition
+* Civilwar Programming Competition
+* Luks Programming Competition
