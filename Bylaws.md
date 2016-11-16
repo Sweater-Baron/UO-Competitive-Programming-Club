@@ -45,6 +45,11 @@ Maintain the Organization’s communicative and fiscal responsibility between th
    * Lead fundraising (e.g. asking local businesses to sponsor competitions, writing grants...)  
    * Manage the club's web presence
 
+4. The Head Coach shall:  
+   * Design a learning curriculum for meetings (e.g. which algorithms to cover, how to teach them, what problems to give to reinforce them...)
+   * Provide coaching/instruction during meetings
+   * Lead the development of problem sets for competitions and practice competitions
+
 ***[Elections/Appointments: The selection process below is just a sample. You can either adapt the process below to your group’s style, or just replace it with your group’s entirely new process. You don’t have to use a voting system, but you should implement a leadership selection process that is both fair and appropriate for your group in particular. For example, if your group is more specific-skill-focused, you may have the outgoing leadership appoint the next leader directly after interviewing candidates based on their aptitude for the particular role to be filled.]***  
 ### Elections & General Group Voting
 1. Elections will be announced via the club email or web page, and must be announced at at least one regular meeting held before the election process takes place.
